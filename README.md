@@ -6,7 +6,7 @@ We will therefore use the real time Data set with variuos features a user would 
 
 Acknowledgements The data scraped was entirely for educational purposes only. Note that I don’t claim any copyright for the data. All copyrights for the data are owned by Zomato Media Pvt. Ltd..
 
-Source Dataset: Kaggle
+Source Dataset: [Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants/data)
 
 ## Overview
 
@@ -22,7 +22,7 @@ This is a Streamlit web application that predicts the rating of a restaurant on 
 - Matplotlib
 - Scikit-learn
 
-### Project Structure
+## Project Structure
 This project has four major parts :
 - `model/model.ipynb`: This contains code for our Machine Learning model to predict restaurant ratings based on data in the 'zomato.csv' file and 
 - `app.py`: The main Streamlit application script.
@@ -30,6 +30,12 @@ This project has four major parts :
 - `logs/`: Directory to store log files.
 
 You can select any one of the options at a time to see the result.
+
+## Install the required packages using:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Running the project
 1. Ensure that you are in the project home directory. Run the below command to start streamlit app.
@@ -46,6 +52,9 @@ Select all the option given in dropdown-->enter valid numerical values in votes 
 
 If everything goes well, you should  be able to see the restaurant rating.
 ![image](https://user-images.githubusercontent.com/67735416/115828015-bd831c00-a42a-11eb-8a85-4cf19d7fc930.png)
+
+## Contributing
+Feel free to contribute to this project by opening issues or submitting pull requests.
 
 
 
