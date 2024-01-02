@@ -51,7 +51,8 @@ You should be able to view the homepage.
 Select all the option given in dropdown-->enter valid numerical values in votes and cost input boxes-->hit Predict.
 
 If everything goes well, you should  be able to see the restaurant rating.
-![image](https://user-images.githubusercontent.com/67735416/115828015-bd831c00-a42a-11eb-8a85-4cf19d7fc930.png)
+
+![image](https://github.com/sandeepreddygantla/Restaurant-Rating-Prediction/blob/main/img/zomato_output.png)
 
 ## Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests.
