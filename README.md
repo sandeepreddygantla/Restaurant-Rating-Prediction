@@ -1,5 +1,4 @@
-# Streamlit-Zomato-Restaurant-rating-Full-model-building-and-prediction
-![image](https://user-images.githubusercontent.com/67735416/115825253-c2de6780-a426-11eb-963a-82a6dde59252.png)
+
 ### Introduction
 Zomato is one of the best online food delivery apps which gives the users the ratings and the reviews on restaurants all over india.These ratings and the Reviews are considered as one of the most important deciding factors which determine how good a restaurant is.
 
