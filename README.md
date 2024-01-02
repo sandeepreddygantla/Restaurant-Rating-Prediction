@@ -38,13 +38,33 @@ pip install -r requirements.txt
 ```
 
 ## Running the project
-1. Ensure that you are in the project home directory. Run the below command to start streamlit app.
+1. Clone the repository:
+```
+git clone https://github.com/sandeepreddygantla/Restaurant-Rating-Prediction.git
+```
+2. Change directory
+```
+cd Restaurant-Rating-Prediction
+```
+3. Need a dataset to train model Download it from [Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants/data)
+
+4. create a `data` folder and store the dataset in `data/zomato.csv`
+
+5. Run `model/model.ipynb` file
+
+6. install jupyter notebook to run the `model.ipynb`
+```
+pip install jupyter
+``` 
+7. You will get `model.pkl` file in `model/` folder
+
+8. Ensure that you are in the project home directory. Run the below command to start streamlit app.
    
 ```
 streamlit run app.py
 ```
 
-2. Navigate to URL http://localhost:8501
+9. Navigate to URL http://localhost:8501
 
 You should be able to view the homepage.
 
