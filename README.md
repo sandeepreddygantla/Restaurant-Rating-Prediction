@@ -1,3 +1,6 @@
+Deployed In Digital Ocean 
+
+APP Link: http://64.23.150.103:8501/
 
 ## Introduction
 Zomato is one of the best online food delivery apps which gives the users the ratings and the reviews on restaurants all over india.These ratings and the Reviews are considered as one of the most important deciding factors which determine how good a restaurant is.
